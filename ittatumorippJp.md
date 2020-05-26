@@ -1,13 +1,13 @@
-1. Permission to access the camera<br>
+1. Permission to access the camera
 This permission is only used to obtain images from the camera for photo editing, process and create the photos.
 
-2. Right to access internal storage<br>
+2. Right to access internal storage
 This right is used to save processed photos and save them to internal storage.
 It is also used to access the photo when the user selects and uses the original photo.
 
-1.ƒJƒƒ‰‚Ö‚ÌƒAƒNƒZƒXŒ ŒÀ<br>
-“–Œ ŒÀ‚ÍAÊ^•ÒW‚Ì‚½‚ß‚ÉƒJƒƒ‰‚©‚ç‰æ‘œ‚ğæ“¾‚µAÊ^‚ğ‰ÁHAì¬‚·‚é‚½‚ß‚É‚Ì‚İg—p‚µ‚Ü‚·B
+ï¼‘ï¼ã‚«ãƒ¡ãƒ©ã¸ã®ã‚¢ã‚¯ã‚»ã‚¹æ¨©é™
+å½“æ¨©é™ã¯ã€å†™çœŸç·¨é›†ã®ãŸã‚ã«ã‚«ãƒ¡ãƒ©ã‹ã‚‰ç”»åƒã‚’å–å¾—ã—ã€å†™çœŸã‚’åŠ å·¥ã€ä½œæˆã™ã‚‹ãŸã‚ã«ã®ã¿ä½¿ç”¨ã—ã¾ã™ã€‚
 
- 2.“à•”ƒXƒgƒŒ[ƒW‚Ö‚ÌƒAƒNƒZƒXŒ ŒÀ<br>
-“–Œ ŒÀ‚ÍA‰ÁH‚µ‚½Ê^‚ğ•Û‘¶‚µA“à•”ƒXƒgƒŒ[ƒW‚É•Û‘¶‚·‚é‚½‚ß‚É‚Ì‚İg—p‚µ‚Ü‚·B
-‚Ü‚½Aƒ†[ƒU[‚ª‰ÁHŒ³‚ÌÊ^‚ğ‘I‘ğ‚µg—p‚·‚éÛAÊ^‚ÉƒAƒNƒZƒX‚·‚é‚½‚ß‚É‚Ì‚İg—p‚µ‚Ü‚·B
+ï¼’ï¼å†…éƒ¨ã‚¹ãƒˆãƒ¬ãƒ¼ã‚¸ã¸ã®ã‚¢ã‚¯ã‚»ã‚¹æ¨©é™
+å½“æ¨©é™ã¯ã€åŠ å·¥ã—ãŸå†™çœŸã‚’ä¿å­˜ã—ã€å†…éƒ¨ã‚¹ãƒˆãƒ¬ãƒ¼ã‚¸ã«ä¿å­˜ã™ã‚‹ãŸã‚ã«ã®ã¿ä½¿ç”¨ã—ã¾ã™ã€‚
+ã¾ãŸã€ãƒ¦ãƒ¼ã‚¶ãƒ¼ãŒåŠ å·¥å…ƒã®å†™çœŸã‚’é¸æŠã—ä½¿ç”¨ã™ã‚‹éš›ã€å†™çœŸã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ãŸã‚ã«ã®ã¿ä½¿ç”¨ã—ã¾ã™ã€‚
